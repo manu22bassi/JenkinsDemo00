@@ -1,0 +1,7 @@
+C:\Git_0.0\Practice\ConsoleAppDemo00\ConsoleAppDemo00\bin\Debug\ConsoleAppDemo00.exe.config
+C:\Git_0.0\Practice\ConsoleAppDemo00\ConsoleAppDemo00\bin\Debug\ConsoleAppDemo00.exe
+C:\Git_0.0\Practice\ConsoleAppDemo00\ConsoleAppDemo00\bin\Debug\ConsoleAppDemo00.pdb
+C:\Git_0.0\Practice\ConsoleAppDemo00\ConsoleAppDemo00\obj\Debug\ConsoleAppDemo00.csprojAssemblyReference.cache
+C:\Git_0.0\Practice\ConsoleAppDemo00\ConsoleAppDemo00\obj\Debug\ConsoleAppDemo00.csproj.CoreCompileInputs.cache
+C:\Git_0.0\Practice\ConsoleAppDemo00\ConsoleAppDemo00\obj\Debug\ConsoleAppDemo00.exe
+C:\Git_0.0\Practice\ConsoleAppDemo00\ConsoleAppDemo00\obj\Debug\ConsoleAppDemo00.pdb
